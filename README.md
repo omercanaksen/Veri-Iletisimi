@@ -1,3 +1,4 @@
 # Veri Iletisimi
-Server Socket Code
-Ömercan Akşen 1611012023
+Server Socket Code\n
+Ömercan Akşen 1611012023\n
+Emine Keskin 
