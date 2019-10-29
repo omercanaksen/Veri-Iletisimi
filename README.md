@@ -1,2 +1,3 @@
 # Veri Iletisimi
- ilk projem
+Server Socket Code
+Ömercan Akşen 1611012023
